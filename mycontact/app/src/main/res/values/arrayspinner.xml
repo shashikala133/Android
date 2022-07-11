@@ -1,0 +1,12 @@
+<resources>
+
+    <string-array name="arrayspinner">
+
+        <item>@string/personalphone</item>
+        <item>@string/workphone</item>
+        <item>@string/homephone</item>
+
+
+    </string-array>
+
+</resources>
